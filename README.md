@@ -13,7 +13,3 @@ A Computer Vs Human Tic-Tac-Toe Game in Python for CSC1024 Programming Principle
 
 ![presentation_21033691](https://github.com/user-attachments/assets/7f3b2279-3ac7-441c-a29f-29510492922d)
 
-## Flowchart 
-
-![image](https://github.com/user-attachments/assets/03e69b7a-c10b-4cb7-86a7-24aa88e642fa)
-
